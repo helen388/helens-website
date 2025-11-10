@@ -125,7 +125,7 @@
 <body>
 
 <header>
-  <img src="banner.png" alt="Helen's Greek Kitchen Banner">
+  <img src="header.png.png" alt="Helen's Greek Kitchen Banner">
 </header>
 
 <nav>
