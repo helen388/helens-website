@@ -75,6 +75,7 @@
 
   .menu-item p {
     margin: 0;
+    color: #2e9cab;
   }
 
   .menu-item .price {
@@ -170,6 +171,7 @@
     <i class="fas fa-utensils"></i> Order Now
   </a>
 </section>
+
 <section id="menu">
   <h2>STARTERS FOR THE GODS</h2>
   <p>Before the main feast, the gods liked to snack too. Sharing is optional. Greed is divine.</p>
@@ -177,82 +179,276 @@
   <div class="menu-item">
     <h3>Allitis Pitta</h3>
     <p>A homemade Classic from our own Greek Legend Helen. Beef Mince Meat on a pitta bread, served with a little salad and Authentic Greek Yogurt.</p>
+    <div class="price">£7.00</div>
   </div>
 
   <div class="menu-item">
     <h3>Feta Pastry with Honey</h3>
     <p>Crispy, Salty, Sweet and scandalously addictive. PDO Feta cheese wrapped in filo pastry and drizzled with honey & sesame.</p>
+    <div class="price">£5.00</div>
   </div>
 
   <div class="menu-item">
     <h3>Kolokithokeftedes</h3>
     <p>Crispy Courgettes fritters bursting with herb and Feta – Zeus himself declared them "dangerously moreish".</p>
+    <div class="price">£5.50</div>
   </div>
 
   <div class="menu-item">
     <h3>Greek Salad</h3>
     <p>Fresh, Crunchy and very Athenian-approved. Authentic Greek Salad with fresh tomatoes, cucumber, bell pepper, onions, olives, extra virgin olive-oil and oregano.</p>
+    <div class="price">£6.00</div>
   </div>
 
   <div class="menu-item">
     <h3>Dolmades</h3>
     <p>Tender vine leaves, stuffed with rice and herbs, basically Greek Sushi but with more Salt. Served with a fresh lemon sauce.</p>
+    <div class="price">£5.00</div>
   </div>
 
   <div class="menu-item">
     <h3>Talagani Cheese</h3>
     <p>Grilled to golden perfection, crispy outside heavenly inside. Even Apollo could not resist this melody of flavour.</p>
+    <div class="price">£4.00</div>
   </div>
 
   <div class="menu-item">
     <h3>Tzatziki</h3>
     <p>Cool Authentic Greek Yogurt, cucumber & garlic – Combo of destiny. The shield that protects all gyros.</p>
+    <div class="price">£3.00</div>
   </div>
 
   <div class="menu-item">
     <h3>Aubergine Dip</h3>
     <p>Smokey, silky and deeply mysterious. If the Oracle of Delphi made Sushi, this would be it!</p>
+    <div class="price">£3.00</div>
   </div>
 
   <div class="menu-item">
     <h3>Houmous</h3>
     <p>Smooth, Garlicky and made with love (and Chickpeas.) The dip of diplomacy – unites all tables. Served with Extra Virgin Olive Oil and paprika.</p>
+    <div class="price">£3.50</div>
   </div>
 
   <div class="menu-item">
     <h3>Olives</h3>
     <p>Simple. Classic. Eternal. Athena’s proudest invention. Respect the Olive!</p>
+    <div class="price">£3.00</div>
   </div>
 
-  <!-- (All other menu sections remain unchanged, only prices removed) -->
+  <!-- WRAPS FOR THE GODS -->
+  <h2>WRAPS FOR THE GODS (PITA GYROS)</h2>
+  <p>All served in fluffy Greek pita with salad, fries & sauce. Don't ask for ketchup – we're not a chip shop.</p>
+
+  <div class="menu-item">
+    <h3>Pork Gyros</h3>
+    <p>Juicy, smoky, and 100% approved by the intellectual Athenians. Served with fries, tomatoes, onions, and Tzatziki.</p>
+    <div class="price">From £8.00</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Chicken Gyros</h3>
+    <p>Tastes like a Greek summer, desired by ancient Spartan warriors. Served with fries, tomatoes, onions, and Tzatziki.</p>
+    <div class="price">From £8.00</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Pork Souvlaki</h3>
+    <p>Tender pork, kissed by fire and Greek spices, wrapped in fluffy pita glory. Served with fries, salad, and our divine sauce.</p>
+    <div class="price">From £8.00</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Chicken Souvlaki</h3>
+    <p>Succulent chicken, marinated like a Spartan's secret weapon, grilled to perfection. Wrapped with salad, fries, and our legendary sauce.</p>
+    <div class="price">From £8.00</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Kebab Souvlaki</h3>
+    <p>All the juicy, grilled goodness of our kebab, wrapped tighter than Athena’s helmet. Sweet red peppers and our secret “ambrosia-inspired” sauce create a Greek miracle in every mouthful.</p>
+    <div class="price">From £8.00</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Greek Sausage</h3>
+    <p>Bold, flavorful, and full of street-smart swagger straight from the Greek agora. Herbs so good, even Dionysus would raise his goblet in approval.</p>
+    <div class="price">From £8.00</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Talagani Wrap</h3>
+    <p>Grilled Talagani (our very own halloumi), peppers, and a drizzle of zesty lemon sauce make this a Mount Olympus-worthy delight.</p>
+    <div class="price">From £8.00</div>
+  </div>
+
+  <!-- GREEK ME BABY ONE MORE TIME -->
+  <h2>GREEK ME BABY ONE MORE TIME</h2>
+  <p>Because you always come back for more. Don’t deny it.</p>
+
+  <div class="menu-item">
+    <h3>Pork Kalamakia</h3>
+    <p>Tender pork skewers, grilled to perfection. Includes 3 juicy pork skewers, served with chips and salad.</p>
+    <div class="price">£14.00</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Chicken Kalamakia</h3>
+    <p>Succulent chicken skewers, marinated and flame-grilled until golden. Includes 3 chicken skewers, served with chips and salad.</p>
+    <div class="price">£14.00</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Kebab Portion</h3>
+    <p>Succulent, juicy, and grilled with the fire of Hephaestus himself. 3 juicy kebabs served with fries and salad.</p>
+    <div class="price">From £14.00</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Mixed Gyros</h3>
+    <p>The ultimate gyro adventure: a little chicken, a little pork, a lot of deliciousness. Served with fries, pittas, bread, and salad.</p>
+    <div class="price">£16.00</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Sausage Platter</h3>
+    <p>A heroic lineup of sausages, grilled to perfection. Served with fries and salad.</p>
+    <div class="price">£15.00</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Vegetarian Platter</h3>
+    <p>Talagani, peppers served with fries and salad – a garden party straight from Mount Olympus.</p>
+    <div class="price">£14.00</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Mixed Grill Platter</h3>
+    <p>A little bit of everything for the indecisive Greek legend. Feeds 2-3 fully grown Greeks.</p>
+    <div class="price">£27.50</div>
+  </div>
+
+  <!-- THE GREEK QUESTS -->
+  <h2>THE GREEK QUESTS</h2>
+  <div class="menu-item">
+    <h3>Bifteki</h3>
+    <p>Juicy Greek-style beef patties filled with herbs and maybe a secret or two from Mount Parnassus. Potatoes accompany.</p>
+    <div class="price">£14.50</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Briam</h3>
+    <p>Vibrant medley of baked vegetables, olive oil, and herbs. Served with fries.</p>
+    <div class="price">£14.50</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Gemista</h3>
+    <p>Peppers and tomatoes stuffed with herby rice and good vibes only. Served with fries.</p>
+    <div class="price">£14.50</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Giouvesti</h3>
+    <p>Tender chicken baked with orzo, tomato, and a hint of cinnamon. Comes with fries.</p>
+    <div class="price">£14.50</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Kleftiko</h3>
+    <p>Lamb so tender it practically sings of Greek islands and olive groves. Served with roast potatoes.</p>
+    <div class="price">£18.00</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Lemon Chicken</h3>
+    <p>Tender chicken baked in zesty lemon sauce. Fries on the side.</p>
+    <div class="price">£14.50</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Mousakas</h3>
+    <p>Layers of aubergine, spiced mince, and creamy béchamel baked golden.</p>
+    <div class="price">£14.50</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Paboutskia</h3>
+    <p>Stuffed aubergines overflowing with spiced mince and sunshine.</p>
+    <div class="price">£14.50</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Pastitsio</h3>
+    <p>Pasta, spiced mince, and luscious béchamel in perfect harmony.</p>
+    <div class="price">£14.50</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Plaki Fish</h3>
+    <p>Oven-baked fish with tomatoes, onions, olives, and herbs. Fries on the side.</p>
+    <div class="price">£14.50</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Red Chicken</h3>
+    <p>Tender chicken simmered in rich tomato sauce kissed by the sun. Fries on the side.</p>
+    <div class="price">£14.50</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Stifado</h3>
+    <p>Slow-cooked beef with sweet onions and romantic spices. Fries accompany.</p>
+    <div class="price">£14.50</div>
+  </div>
+
+  <!-- SWEET TREATS -->
+  <h2>SWEET TREATS</h2>
+
+  <div class="menu-item">
+    <h3>Baklavas</h3>
+    <p>Flaky, nutty, sticky perfection. Athena would swap her owl for a piece.</p>
+    <div class="price">£4.00</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Chocolate Cake</h3>
+    <p>Decadent, rich, and dangerously delicious. Even Hades would forgive you.</p>
+    <div class="price">£4.00</div>
+  </div>
+
+  <div class="menu-item">
+    <h3>Galaktoboureko</h3>
+    <p>Custard wrapped in filo, drenched in syrup. Divine intervention in pastry form.</p>
+    <div class="price">£4.50</div>
+  </div>
 
 </section>
 
 <section id="contact">
   <h2>Contact</h2>
-  <p>Email: info@helenskitchen.uk</p>
-  <p>Address: The Three Cups Pub, 45 Newnham St, Bedford MK40 3JR</p>
+  <p>Helen's Greek Kitchen – Three Cups Pub<br>
+     1-3 Tottenham Court Rd, London W1T 1BB<br>
+     Email: info@helenskitchen.uk<br>
+     Phone: +44 20 1234 5678</p>
 </section>
 
 <section id="allergens">
   <h2>Allergens</h2>
-  <p>At Helen's Greek Kitchen, we use traditional Greek ingredients and family recipes. Please let us know if you have any food allergies or dietary requirements.</p>
   <ul class="allergen-list">
-    <li>Dairy (milk, cheese, yoghurt)</li>
-    <li>Gluten (wheat, barley, bread, pita, pastry)</li>
-    <li>Nuts (almonds, walnuts, pistachios)</li>
-    <li>Shellfish (prawns, mussels, calamari)</li>
+    <li>Gluten</li>
+    <li>Dairy</li>
     <li>Eggs</li>
-    <li>Sesame (tahini, seeds, bread toppings)</li>
+    <li>Tree Nuts</li>
+    <li>Peanuts</li>
+    <li>Fish</li>
     <li>Soy</li>
-    <li>Mustard</li>
-    <li>Sulphites (in dressings and wines)</li>
+    <li>Celery</li>
   </ul>
-  <p>We take care to avoid cross-contamination but cannot guarantee any dish is completely allergen-free. Please ask our team for advice. Efharisto!</p>
 </section>
 
 <footer>
-  <p>© Helen's Greek Kitchen. All rights reserved. Designed by Miska.</p> 
+  &copy; 2025 Helen's Greek Kitchen. All rights reserved.
 </footer>
 
 </body>
