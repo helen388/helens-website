@@ -9,7 +9,7 @@
     margin: 0;
     padding: 0;
     background-color: #f0f8ff;
-    color: #2e2b2b;
+    color: #2e9cab;
     line-height: 1.6;
     scroll-behavior: smooth;
   }
@@ -24,7 +24,7 @@
   nav {
     display: flex;
     justify-content: center;
-    background-color: #1f618d;
+    background-color: #2e9cab;
     flex-wrap: wrap;
     position: sticky;
     top: 0;
@@ -33,7 +33,7 @@
 
   nav a {
     text-decoration: none;
-    color: white;
+    color: #2e9cab;
     padding: 15px 20px;
     cursor: pointer;
     font-weight: bold;
@@ -42,7 +42,7 @@
   }
 
   nav a:hover {
-    background-color: #2874a6;
+    background-color: #2e9cab;
     transform: scale(1.05);
   }
 
@@ -53,16 +53,16 @@
   }
 
   h2 {
-    color: #1f618d;
+    color: #2e9cab;
     margin-top: 30px;
-    border-bottom: 2px solid #1f618d;
+    border-bottom: 2px solid #2e9cab;
     padding-bottom: 5px;
   }
 
   .menu-item {
     margin-bottom: 20px;
     padding: 15px;
-    border-left: 5px solid #1f618d;
+    border-left: 5px solid #2e9cab;
     background-color: #e6f2ff;
     border-radius: 8px;
   }
@@ -70,25 +70,32 @@
   .menu-item h3 {
     margin: 0 0 5px 0;
     font-size: 1.3em;
-    color: #2874a6;
+    color: #2e9cab;
   }
 
   .menu-item p {
     margin: 0;
   }
 
+  .menu-item .price {
+    font-weight: bold;
+    margin-top: 5px;
+    color: #2e9cab;
+  }
+
   .allergen-list {
     list-style-type: disc;
     padding-left: 20px;
     margin: 10px 0;
+    color: #2e9cab;
   }
 
   .order-button {
     display:inline-flex;
     align-items:center;
     justify-content:center;
-    background-color:#2874a6;
-    color:white;
+    background-color:#2e9cab;
+    color:#2e9cab;
     padding:18px 35px;
     border-radius:50px;
     text-decoration:none;
@@ -105,7 +112,7 @@
   }
 
   .order-button:hover {
-    background-color: #1f618d;
+    background-color: #2e9cab;
     transform: scale(1.08);
     box-shadow: 0 8px 20px rgba(0,0,0,0.35);
   }
@@ -113,8 +120,8 @@
   footer {
     text-align: center;
     padding: 20px;
-    background-color: #1f618d;
-    color: white;
+    background-color: #2e9cab;
+    color: #2e9cab;
     margin-top: 30px;
   }
 
@@ -141,8 +148,8 @@
 </header>
 
 <nav>
-  <a href="#menu">Menu</a>
   <a href="#about">About</a>
+  <a href="#menu">Menu</a>
   <a href="#contact">Contact</a>
   <a href="#allergens">Allergens</a>
 </nav>
@@ -163,7 +170,6 @@
     <i class="fas fa-utensils"></i> Order Now
   </a>
 </section>
-
 <section id="menu">
   <h2>STARTERS FOR THE GODS</h2>
   <p>Before the main feast, the gods liked to snack too. Sharing is optional. Greed is divine.</p>
