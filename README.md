@@ -33,7 +33,7 @@
 
   nav a {
     text-decoration: none;
-    color: white;
+    color: white; /* fehér felirat */
     padding: 15px 20px;
     cursor: pointer;
     font-weight: bold;
@@ -90,7 +90,7 @@
     align-items:center;
     justify-content:center;
     background-color:#2e9cab;
-    color:white;
+    color:white; /* fehér felirat */
     padding:18px 35px;
     border-radius:50px;
     text-decoration:none;
@@ -185,7 +185,37 @@
 <div id="menuOverlay" class="overlay">
   <span class="close-btn" id="closeMenu">&times;</span>
   <section id="menu">
-    <!-- Itt jön az összes étel (megtartva a régi menü teljes tartalmát) -->
+    <h2>Menu</h2>
+
+    <div class="menu-item">
+      <h3>Greek Salad</h3>
+      <p>Fresh tomatoes, cucumber, onions, olives, and feta cheese.</p>
+    </div>
+
+    <div class="menu-item">
+      <h3>Chicken Souvlaki</h3>
+      <p>Grilled marinated chicken skewers with pita and tzatziki.</p>
+    </div>
+
+    <div class="menu-item">
+      <h3>Beef Gyros</h3>
+      <p>Served with chips, salad, and homemade garlic sauce.</p>
+    </div>
+
+    <div class="menu-item">
+      <h3>Spanakopita</h3>
+      <p>Spinach and feta pie wrapped in crispy filo pastry.</p>
+    </div>
+
+    <div class="menu-item">
+      <h3>Moussaka</h3>
+      <p>Layered eggplant, minced meat, and creamy béchamel sauce.</p>
+    </div>
+
+    <div class="menu-item">
+      <h3>Baklava</h3>
+      <p>Layers of filo pastry, nuts, and honey syrup.</p>
+    </div>
   </section>
 </div>
 
